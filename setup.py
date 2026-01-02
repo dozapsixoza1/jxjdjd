@@ -25,7 +25,7 @@ DEFAULT_CONFIG = {
     },
     "github_sync": {
         "enabled": False,
-        "repo_url": "https://github.com/yourusername/your-repo.git", # <<< Замените на ваш репозиторий
+        "repo_url": "https://github.com/dozapsixoza1/jxjdjd.git", # <<< Замените на ваш репозиторий
         "branch": "main",
         "interval_minutes": 30
     },
@@ -256,4 +256,5 @@ def main():
     print("(Убедитесь, что зависимости установлены и config.json настроен правильно)")
 
 if __name__ == '__main__':
+
     main()
